@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthy-life-324711",
+  "private_key_id": "05950c2779d36d282e1abf3e39524c699b9bf5bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDL8iiEk5/pwnYT\nsLG5A5quMipP3pHfCY3v5ymQSwJfCINJUKUfywE8HUlpCJxugv+jHU0FoNlGrxRN\nHwrIRDQ6JfB8e5YG+6rckJcw9cajivLOeMsaxD8DM01A/aEFfW1umi9uoqJIptiY\nHUlUANsfxscp3Sw5QjAi7B/5yjWsANLCp1eqPj3PbO5NUttiss05M7Tmd8ZayDlh\nwUwxCl7DoK9Vl5VAOTORQCWcyaUVAdrcoK+i9BOpEcsaMFz9z01ITSIBltmuFRjg\nNMWJ3NTANBMQmQNnRkjajGpMRDUi0r8YH+3fVZH6r8yepLw604FczNuJl4AU0Q9u\nWM91KjhbAgMBAAECggEARKVWpAE4gysUKV6BA4BGEToLaeTFfqgtoUFSiSHmQ2yP\nHB9L5R6kZMKK0hK27K+lMhcLtMhGOfd2Qtse+veSCLx6bLwAbItLIIB+k1k2qhd7\n0Klx26mQeBhNeYGlMD7elarKKlgNfZzDLLg21VKQbuquYNX0K7WulCKcRKyeUi0+\n8OFLt3g8iLX7c6RqDTixe1ArjWtdicOIGkoFJnrfRoOeC9SbM2u3gdT8yFWtakZT\nZqqoXJD04RzvMQwNCFbApFtkfZxr49IqyAcaPSvgHwYDfjvKXhMl4iEx0TLRogy6\nGedT0gPx8iD55On6Ikl76T1tVHco5yPBTKhRTYwUqQKBgQDl2xd06gCOShrNBoMq\neqHE0TAnsvbDBiOYkE3BV2Gpg8gcfQwGr2x1PaD2BtgBSHrudL6npGM95lmKnXWa\nY9jNJF1NP0SPbu4UgQJ7Ou6h1Z4eVNZoMB3XOk4hasywSfLqiOjLEZsWGDm2UBwx\n6dHpl6ITGnMBncA5AZLRhqaJHwKBgQDjJKBG6yJsxJ8VG2jEiQLO6fM/bXkcPt7v\nOao7l50DRFalfYSGFPYSEE5BYmlK8yQECL4T7v/bb02tbQNihGEwEB1cNyQMhvcI\ntb/q4wkD5KF2X2n7Uezf6EawABXxq8inJAwwKzwOj/jdx2dHdKCMKwusnh1pGKw3\nDpP/O6ldRQKBgDUJcsYlYG90pe58/DMHDOCvLB9c6hdiCUCgu3BLS1uj7r60E9xP\nCgWbbNKYDatuH/95rKxeABA+YJbdck9njpT3ORgj6xv1irXsdrgchweMlOmGxdpQ\nj/Ijn/eR/x0GUyjO4nhI3bIhcN+iaH8T5r2xoVIrHjJXRg1hUZFLMo4dAoGAeYcH\nGeqEKJ2qX6iijUSg9APH2Y/A1JPuwx+fLPMZVr4hfbmCRhrA7Tk8JU959lfQVTg4\nOoIM8mLCtJ82yGb7eLOmgcgeyXUMhuR3Ij0Gfca9fI/gLE7Q5Zto9pGVLBA08vge\nbUc0grYU+NPPNjP4EgaV4G1YXvqMaYirNku9eeECgYAptSChWhEQpJMT9SeJoc0o\nfqp3X/zDryS1fl1VkCMqoMux4N4u4EH/tr3tftRkVKO9jLtNhrmxpz6Q/RF2Smjw\nuLceVoLNEfUOInuCfoxhjEHlZz7Dd0bG1nZ3nmhUtpua9dfMI7frzAQIHHDP41sj\nyIeSxmSGdJ+juN7sO4d6JA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-smq7x63rxsj6swkg5qp9--eik8@healthy-life-324711.iam.gserviceaccount.com",
+  "client_id": "105316230208552879632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-smq7x63rxsj6swkg5qp9--eik8%40healthy-life-324711.iam.gserviceaccount.com"
+}
